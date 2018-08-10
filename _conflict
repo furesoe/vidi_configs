@@ -1,0 +1,185 @@
+{
+  "schemata": [
+    "data_udstilning"
+  ],
+  
+  "baseLayers": [
+      {
+            "id": "geodk.bright",
+            "name": "GeoDanmark kort, lavkon",
+            "db": "baselayers",
+            "host": "https://gc2.io",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 19,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },{
+            "id": "geodk.terminal",
+            "name": "GeoDanmark kort, terminal",
+            "db": "baselayers",
+            "host": "https://gc2.io",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 19,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },
+        {
+            "id": "luftfotoserier.geodanmark_2017_12_5cm",
+            "name": "Luftfoto 2017",
+            "db": "baselayers",
+            "host": "https://gc2.io",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },
+        {
+            "id": "luftfotoserier.geodanmark_2016_12_5cm",
+            "name": "Luftfoto 2016",
+            "db": "baselayers",
+            "host": "https://gc2.io",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },
+        {
+            "id": "data.orto_furesoe_2015",
+            "name": "Luftfoto 2015",
+            "db": "furesoe",
+            "host": "http://gc2",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },{
+            "id": "data.orto_furesoe_2014",
+            "name": "Luftfoto 2014",
+            "db": "furesoe",
+            "host": "http://gc2",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },{
+            "id": "data.orto_furesoe_2013",
+            "name": "Luftfoto 2013",
+            "db": "furesoe",
+            "host": "http://gc2",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },{
+            "id": "data.orto_furesoe_2012",
+            "name": "Luftfoto 2012",
+            "db": "furesoe",
+            "host": "http://gc2",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },{
+            "id": "data.orto_furesoe_2012_sommer",
+            "name": "Luftfoto 2012, sommer",
+            "db": "furesoe",
+            "host": "http://gc2",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },{
+            "id": "data.orto_furesoe_2011",
+            "name": "Luftfoto 2011",
+            "db": "furesoe",
+            "host": "http://gc2",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },{
+            "id": "data.orto_furesoe_2010",
+            "name": "Luftfoto 2010",
+            "db": "furesoe",
+            "host": "http://gc2",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },{
+            "id": "data.orto_furesoe_2009",
+            "name": "Luftfoto 2009",
+            "db": "furesoe",
+            "host": "http://gc2",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },{
+            "id": "data.orto_furesoe_2008",
+            "name": "Luftfoto 2008",
+            "db": "furesoe",
+            "host": "http://gc2",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },{
+            "id": "data.orto_furesoe_2007",
+            "name": "Luftfoto 2007",
+            "db": "furesoe",
+            "host": "http://gc2",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },{
+            "id": "data.orto_furesoe_2005",
+            "name": "Luftfoto 2005",
+            "db": "furesoe",
+            "host": "http://gc2",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },
+        {"id": "osm", "name": "OSM"},
+        {"id": "stamenTonerLite", "name": "Stamen Toner Light"}
+  ],
+  
+  "enabledExtensions": [
+        "conflictSearch",
+        "findNearest",
+        "streetView",
+        "coordinates",
+        "ejendom"
+  ],
+  
+  "searchConfig": {
+        "komkode": "190"
+  },
+  
+  "enabledPrints": ["print"],
+  
+  "template": "default.tmpl",
+  
+  "brandName": "Furesø Kommune",
+  
+  "aboutBox": "Furesø Kommunes kort på nettet"
+
+}
