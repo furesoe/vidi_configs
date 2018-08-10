@@ -1,3 +1,11 @@
 {
   "brandName": "Furesø Test"
+  
+   "enabledExtensions": [
+        "conflictSearch",
+        "findNearest",
+        "streetView",
+        "coordinates",
+        "ejendom"
+  ],
 }
