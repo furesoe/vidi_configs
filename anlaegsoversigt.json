@@ -165,7 +165,6 @@
   
   "enabledExtensions": [
         "conflictSearch",
-        "findNearest",
         "streetView",
         "ejendom"
   ],
