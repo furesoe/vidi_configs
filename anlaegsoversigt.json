@@ -4,7 +4,7 @@
   ],
   
   "baseLayers": [
-      {
+       {
             "id": "geodk.bright",
             "name": "GeoDanmark kort, lavkon",
             "db": "baselayers",
@@ -24,7 +24,8 @@
                 "maxNativeZoom": 19,
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
-        },{
+        },
+        {
             "id": "luftfotoserier.geodanmark_2017_12_5cm",
             "name": "Luftfoto 2017",
             "db": "baselayers",
@@ -34,7 +35,8 @@
                 "maxNativeZoom": 20,
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
-        },{
+        },
+        {
             "id": "luftfotoserier.geodanmark_2016_12_5cm",
             "name": "Luftfoto 2016",
             "db": "baselayers",
@@ -44,7 +46,8 @@
                 "maxNativeZoom": 20,
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
-        },{
+        },
+        {
             "id": "data.orto_furesoe_2015",
             "name": "Luftfoto 2015",
             "db": "furesoe",
@@ -156,6 +159,7 @@
             }
         },
         {"id": "osm", "name": "OSM"},
+        {"id": "stamenTonerLite", "name": "Stamen Toner Light"}
        
   ],
   
