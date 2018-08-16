@@ -165,7 +165,7 @@
   
   "enabledExtensions": [
         "conflictSearch",
-        "streetView",        
+        "streetView"        
   ],
   
   "searchConfig": {
