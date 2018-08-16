@@ -163,9 +163,12 @@
        
   ],
   
-  "enabledExtensions": [
+ "enabledExtensions": [
         "conflictSearch",
-        "streetView"        
+        "findNearest",
+        "streetView",
+        "coordinates",
+        "ejendom"   
   ],
   
   "searchConfig": {
