@@ -1,6 +1,6 @@
 {
   "schemata": [
-    "tag:anlaegsoversigt"
+    "tag:vejstatus"
   ],
   
   "baseLayers": [
@@ -164,7 +164,6 @@
   ],
   
  "enabledExtensions": [
-        "conflictSearch",
         "findNearest",
         "streetView"   
   ],
@@ -177,7 +176,7 @@
   
   "template": "default.tmpl",
   
-  "brandName": "Furesø Kommunes anlægsoversigt",
+  "brandName": "Vejstatus - Furesø Kommune",
   
   "aboutBox": "Furesø Kommunes kort på nettet"
 }
