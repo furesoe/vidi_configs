@@ -1,11 +1,16 @@
 {
-  "brandName": "Furesø Test_Kristoffer",
+  "schemata": [
+    "tag:test"
+  ],
   
-   "enabledExtensions": [
+  "enabledExtensions": [
         "conflictSearch",
         "findNearest",
         "streetView",
         "coordinates",
-        "ejendom"
-  ]
+        "ejendom",
+        "session",
+        "editor"
+  ],
+  "brandName": "Furesø Test_Kristoffer"
 }
