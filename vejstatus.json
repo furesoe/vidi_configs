@@ -1,6 +1,7 @@
 {
   "schemata": [
-    "tag:vejstatus"
+    "tag:vejstatus",
+    "tag:baggrund"
   ],
   
   "baseLayers": [
