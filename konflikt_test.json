@@ -3,6 +3,15 @@
     "tag:konflikt"
   ],
   
+  "extensionConfig": {
+        "conflictSearch": {
+            "startBuffer": 0,
+            "getProperty": true,
+            "searchString": "tag:_konflikt"
+            //searchLoadedLayers: true
+        }
+    },
+  
   "baseLayers": [
       {
             "id": "geodk.bright",
