@@ -8,7 +8,7 @@
             "startBuffer": 0,
             "getProperty": true,
             "searchString": "tag:_konflikt",
-            "searchLoadedLayers": true
+            "searchLoadedLayers": false
         }
     },
   
