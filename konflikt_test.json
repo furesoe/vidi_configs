@@ -7,7 +7,7 @@
         "conflictSearch": {
             "startBuffer": 0,
             "getProperty": true,
-            "searchString": "tag:_konflikt",
+            "searchString": "tag:konflikt",
             "searchLoadedLayers": false
         }
     },
