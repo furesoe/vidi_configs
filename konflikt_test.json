@@ -57,7 +57,7 @@
             }
         },
         {
-            "id": "data.orto_furesoe_2015",
+            "id": "ortofotos.orto_furesoe_2015",
             "name": "Luftfoto 2015",
             "db": "furesoe",
             "host": "http://gc2",
@@ -67,7 +67,7 @@
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
         },{
-            "id": "data.orto_furesoe_2014",
+            "id": "ortofotos.orto_furesoe_2014",
             "name": "Luftfoto 2014",
             "db": "furesoe",
             "host": "http://gc2",
@@ -77,7 +77,7 @@
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
         },{
-            "id": "data.orto_furesoe_2013",
+            "id": "ortofotos.orto_furesoe_2013",
             "name": "Luftfoto 2013",
             "db": "furesoe",
             "host": "http://gc2",
@@ -87,7 +87,7 @@
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
         },{
-            "id": "data.orto_furesoe_2012",
+            "id": "ortofotos.orto_furesoe_2012",
             "name": "Luftfoto 2012",
             "db": "furesoe",
             "host": "http://gc2",
@@ -97,7 +97,7 @@
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
         },{
-            "id": "data.orto_furesoe_2012_sommer",
+            "id": "ortofotos.orto_furesoe_2012_sommer",
             "name": "Luftfoto 2012, sommer",
             "db": "furesoe",
             "host": "http://gc2",
@@ -107,7 +107,7 @@
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
         },{
-            "id": "data.orto_furesoe_2011",
+            "id": "ortofotos.orto_furesoe_2011",
             "name": "Luftfoto 2011",
             "db": "furesoe",
             "host": "http://gc2",
@@ -117,7 +117,7 @@
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
         },{
-            "id": "data.orto_furesoe_2010",
+            "id": "ortofotos.orto_furesoe_2010",
             "name": "Luftfoto 2010",
             "db": "furesoe",
             "host": "http://gc2",
@@ -127,7 +127,7 @@
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
         },{
-            "id": "data.orto_furesoe_2009",
+            "id": "ortofotos.orto_furesoe_2009",
             "name": "Luftfoto 2009",
             "db": "furesoe",
             "host": "http://gc2",
@@ -137,7 +137,7 @@
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
         },{
-            "id": "data.orto_furesoe_2008",
+            "id": "ortofotos.orto_furesoe_2008",
             "name": "Luftfoto 2008",
             "db": "furesoe",
             "host": "http://gc2",
@@ -147,7 +147,7 @@
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
         },{
-            "id": "data.orto_furesoe_2007",
+            "id": "ortofotos.orto_furesoe_2007",
             "name": "Luftfoto 2007",
             "db": "furesoe",
             "host": "http://gc2",
@@ -157,7 +157,7 @@
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
         },{
-            "id": "data.orto_furesoe_2005",
+            "id": "ortofotos.orto_furesoe_2005",
             "name": "Luftfoto 2005",
             "db": "furesoe",
             "host": "http://gc2",
