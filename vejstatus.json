@@ -15,16 +15,6 @@
                 "maxNativeZoom": 19,
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
-        },{
-            "id": "geodk.terminal",
-            "name": "GeoDanmark kort, terminal",
-            "db": "baselayers",
-            "host": "https://gc2.io",
-            "config": {
-                "maxZoom": 21,
-                "maxNativeZoom": 19,
-                "attribution": "&copy; SDFE & MapCentia ApS"
-            }
         },
         {
             "id": "luftfotoserier.geodanmark_2017_12_5cm",
@@ -37,9 +27,8 @@
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
         },
-        {"id": "osm", "name": "OSM"},
-        {"id": "stamenTonerLite", "name": "Stamen Toner Light"}
-       
+        {"id": "osm", "name": "OSM"}
+          
   ],
   
  "enabledExtensions": [
