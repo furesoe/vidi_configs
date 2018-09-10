@@ -1,7 +1,9 @@
 {
-  "schemata": [
+     "schemata": [
+    "public",
     "tag:anlaegsoversigt",
     "tag:baggrund"
+    
   ],
   
   "baseLayers": [
