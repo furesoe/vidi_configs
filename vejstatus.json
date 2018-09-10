@@ -7,7 +7,7 @@
   "baseLayers": [
        {
             "id": "geodk.bright",
-            "name": "GeoDanmark kort, lavkon",
+            "name": "GeoDanmark",
             "db": "baselayers",
             "host": "https://gc2.io",
             "config": {
