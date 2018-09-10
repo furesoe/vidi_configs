@@ -187,7 +187,8 @@
   
   "template": "default.tmpl",
   
-  "brandName": "Furesø Kommune",
+  "brandName": "Furesø Kommunes konfliktsøger",
   
-  "aboutBox": "Furesø Kommunes kort på nettet"
+  "aboutBox": "Der søges igennem følgende lag:
+  "
 }
