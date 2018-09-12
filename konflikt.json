@@ -1,4 +1,6 @@
 {
+  "appVersion": 100,
+  
   "schemata": [
     "public",
     "tag:konflikt"
