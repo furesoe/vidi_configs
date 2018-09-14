@@ -177,9 +177,7 @@
   "enabledExtensions": [
         "conflictSearch",
         "findNearest",
-        "streetView",
         "coordinates",
-        "ejendom",
         "session"
   ],
   
