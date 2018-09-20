@@ -35,9 +35,9 @@
   ],
   
   "enabledExtensions": [
-        "embed",
         "session",
-        "editor"
+        "editor",
+        "embed"
   ],
   
   "searchConfig": {
