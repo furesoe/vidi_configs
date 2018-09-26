@@ -1,6 +1,8 @@
 {
   "appVersion": 101,
   
+  "activateMainTab": "conflict",
+  
   "schemata": [
     "public",
     "tag:cowi_gadefotos"
