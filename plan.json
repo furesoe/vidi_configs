@@ -1,7 +1,7 @@
 {
      "schemata": [
     "public",
-    "tag:anlaegsoversigt",
+    "tag:plan",
     "tag:baggrund"
     
   ],
@@ -59,6 +59,6 @@
   
   "template": "default.tmpl",
   
-  "brandName": "Furesø Kommunes anlægsoversigt",
+  "brandName": "Plan-temakort",
   
   "aboutBox": "Furesø Kommunes webkort på nettet"
