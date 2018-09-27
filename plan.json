@@ -59,6 +59,8 @@
  "enabledExtensions": [
         "conflictSearch",
         "findNearest",
+        "coordinates",
+        "ejendom",
         "streetView"   
   ],
   
