@@ -3,6 +3,7 @@
   "schemata": [
     "public",
     "tag:matrikulaere_forhold",
+    "gadefotos",
     "tag:asfalt"
   ],
   
@@ -57,7 +58,7 @@
         "conflictSearch",
         "findNearest",
         "coordinates",
-        "streetview",
+        "streetView",
         "session"
   ],
   
