@@ -70,5 +70,14 @@
   
   "brandName": "Konfliktsøger til planlægning og myndighed",
   
-  "aboutBox": "Der søges igennem følgende lag: <br> Lokalplan, vedtaget, Lokalplan, reglement, Lokalplan, forslag, Kommuneplanrammer, vedtaget, Jordstykke"
+  "aboutBox": "Der søges igennem følgende lag: 
+<br> 
+<ul style="list-style-type:square">
+  <li>Lokalplan, vedtaget</li>
+  <li>Lokalplan, reglement</li>
+  <li>Lokalplan, forslag/li>
+  <li>Kommuneplanrammer, vedtaget</li>
+  <li>Matrikel, jordstykke/li>
+  <li>Lokalplan, forslag/li>
+</ul>"
 }
