@@ -6,6 +6,14 @@
     "tag:baggrund"
     
   ],
+     "extensionConfig": {
+        "conflictSearch": {
+            "startBuffer": -2,
+            "getProperty": true,
+            "searchString": "tag:konflikt",
+            "searchLoadedLayers": false
+        }
+    },
   
   "baseLayers": [
        {
