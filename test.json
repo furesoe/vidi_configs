@@ -6,7 +6,7 @@
   
   "enabledExtensions": [
         "conflictSearch",
-        "findNearest",
+        "skolevej",
         "streetView",
         "coordinates",
         "ejendom",
