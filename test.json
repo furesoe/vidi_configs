@@ -13,5 +13,8 @@
         "session",
         "editor"
   ],
-  "brandName": "Furesø Test_Kristoffer"
+  "brandName": "Furesø Test_Kristoffer",
+  "searchConfig": {
+        "komkode": "190"
+  }
 }
