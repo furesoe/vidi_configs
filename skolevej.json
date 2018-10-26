@@ -1,4 +1,7 @@
+
 {
+    "activateMainTab": "conflict", 
+    
      "schemata": [
     "public",
     "tag:cowi_gadefotos",
