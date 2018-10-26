@@ -1,7 +1,7 @@
 {
   "appVersion": 101,
   
-  "activateMainTab": "conflictSearch",
+  "activateMainTab": "conflict",
   
   "schemata": [
     "public",
