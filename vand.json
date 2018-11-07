@@ -43,7 +43,7 @@
             "id": "orto_furesoe_2015",
             "name": "Luftfoto 2015",
             "db": "furesoe",
-            "host": "https://gc2",
+            "host": "http://gc2",
             "config": {
                 "maxZoom": 21,
                 "maxNativeZoom": 20,
@@ -54,7 +54,7 @@
             "id": "orto_furesoe_2014",
             "name": "Luftfoto 2014",
             "db": "furesoe",
-            "host": "https://gc2",
+            "host": "http://gc2",
             "config": {
                 "maxZoom": 21,
                 "maxNativeZoom": 20,
@@ -65,7 +65,7 @@
             "id": "orto_furesoe_2013",
             "name": "Luftfoto 2013",
             "db": "furesoe",
-            "host": "https://gc2",
+            "host": "http://gc2",
             "config": {
                 "maxZoom": 21,
                 "maxNativeZoom": 20,
@@ -76,7 +76,7 @@
             "id": "orto_furesoe_2012",
             "name": "Luftfoto 2012",
             "db": "furesoe",
-            "host": "https://gc2",
+            "host": "http://gc2",
             "config": {
                 "maxZoom": 21,
                 "maxNativeZoom": 20,
@@ -87,7 +87,7 @@
             "id": "orto_furesoe_2011",
             "name": "Luftfoto 2011",
             "db": "furesoe",
-            "host": "https://gc2",
+            "host": "http://gc2",
             "config": {
                 "maxZoom": 21,
                 "maxNativeZoom": 20,
@@ -98,7 +98,7 @@
             "id": "orto_furesoe_2010",
             "name": "Luftfoto 2010",
             "db": "furesoe",
-            "host": "https://gc2",
+            "host": "http://gc2",
             "config": {
                 "maxZoom": 21,
                 "maxNativeZoom": 20,
@@ -109,7 +109,7 @@
             "id": "orto_furesoe_2009",
             "name": "Luftfoto 2009",
             "db": "furesoe",
-            "host": "https://gc2",
+            "host": "http://gc2",
             "config": {
                 "maxZoom": 21,
                 "maxNativeZoom": 20,
@@ -120,7 +120,7 @@
             "id": "orto_furesoe_2008",
             "name": "Luftfoto 2008",
             "db": "furesoe",
-            "host": "https://gc2",
+            "host": "http://gc2",
             "config": {
                 "maxZoom": 21,
                 "maxNativeZoom": 20,
@@ -131,7 +131,7 @@
             "id": "orto_furesoe_2007",
             "name": "Luftfoto 2007",
             "db": "furesoe",
-            "host": "https://gc2",
+            "host": "http://gc2",
             "config": {
                 "maxZoom": 21,
                 "maxNativeZoom": 20,
@@ -142,7 +142,7 @@
             "id": "orto_furesoe_2005",
             "name": "Luftfoto 2005",
             "db": "furesoe",
-            "host": "https://gc2",
+            "host": "http://gc2",
             "config": {
                 "maxZoom": 21,
                 "maxNativeZoom": 20,
