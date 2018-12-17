@@ -16,5 +16,6 @@
   "brandName": "Furesø Test_Kristoffer",
   "searchConfig": {
         "komkode": "190"
-  }
+  },
+  "enabledPrints": ["printtmpl_furesoe"]
 }
