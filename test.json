@@ -17,5 +17,5 @@
   "searchConfig": {
         "komkode": "190"
   },
-  "enabledPrints": ["printtmpl_furesoe"]
+  "enabledPrints": ["printtmpl_furesoe","print"]
 }
