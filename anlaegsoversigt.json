@@ -55,7 +55,7 @@
         "komkode": "190"
   },
   
-  "enabledPrints": ["print"],
+  "enabledPrints": ["printtmpl_furesoe"],
   
   "template": "default.tmpl",
   
