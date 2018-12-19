@@ -57,7 +57,7 @@
   
   "enabledPrints": ["print"],
   
-  "template": "default.tmpl",
+  "template": "printtmpl_furesoe.tmpl",
   
   "brandName": "Furesø Kommunes anlægsoversigt",
   
