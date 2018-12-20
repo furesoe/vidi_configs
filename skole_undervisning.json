@@ -47,6 +47,17 @@
                 "maxNativeZoom": 20,
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
+        },
+   {
+            "id": "data.orto_furesoe_2005",
+            "name": "Luftfoto 2005",
+            "db": "furesoe",
+            "host": "http://gc2",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
         },{
             "id": "ortofotos._1966",
             "name": "Luftfoto 1966",
