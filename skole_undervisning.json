@@ -4,16 +4,7 @@
     "public",
     "tag:skole_undervisning"
   ],
-  
-  "extensionConfig": {
-        "conflictSearch": {
-            "startBuffer": -2,
-            "getProperty": true,
-            "searchString": "tag:konflikt_drift",
-            "searchLoadedLayers": false
-        }
-    },
-  
+   
   "baseLayers": [
       {
             "id": "geodk.bright",
@@ -129,7 +120,7 @@
   
   "template": "default.tmpl",
   
-  "brandName": "GARTNER-temakort",
+  "brandName": "Undervisningskort",
   
   "aboutBox": ""
 }
