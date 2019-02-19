@@ -17,7 +17,7 @@
         }
     },
   
-  "baseLayers": [
+  "baseLayers":[
        {
             "id": "geodk.bright",
             "name": "GeoDanmark kort, lavkon",
@@ -28,8 +28,7 @@
                 "maxNativeZoom": 19,
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
-        },
-       {
+        },{
             "id": "geodk.terminal",
             "name": "GeoDanmark kort, terminal",
             "db": "baselayers",
@@ -40,7 +39,7 @@
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
         },
-       {
+         {
             "id": "luftfotoserier.geodanmark_2018_12_5cm",
             "name": "Luftfoto 2018",
             "db": "baselayers",
@@ -62,6 +61,7 @@
                 "maxNativeZoom": 20,
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
+     
         },
         {"id": "osm", "name": "OSM"}
        
