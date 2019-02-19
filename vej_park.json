@@ -28,7 +28,8 @@
                 "maxNativeZoom": 19,
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
-        },{
+        },
+       {
             "id": "geodk.terminal",
             "name": "GeoDanmark kort, terminal",
             "db": "baselayers",
@@ -61,7 +62,6 @@
                 "maxNativeZoom": 20,
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
-     
         },
         {"id": "osm", "name": "OSM"}
        
