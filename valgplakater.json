@@ -1,7 +1,7 @@
 {
      "schemata": [
     "public",
-    "tag:valgplakater "
+    "tag:valgplakater"
     
   ],
 
@@ -47,7 +47,7 @@
   
   "template": "default.tmpl",
   
-  "brandName": "Restriktioner for ophængning af valgplakater",
+  "brandName": "Valgplakater",
   
   "aboutBox": "Furesø Kommunes webkort på nettet"
 }
