@@ -10,7 +10,7 @@
         "conflictSearch": {
             "startBuffer": -2,
             "getProperty": true,
-            "searchString": "tag:konflikt",
+            "searchString": "tag:konflikt_plandata",
             "searchLoadedLayers": false
         }
     },
