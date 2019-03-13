@@ -47,7 +47,7 @@
   
   "template": "default.tmpl",
   
-  "brandName": "Konfliktzoner ifbm. valgplakater",
+  "brandName": <font size="-5"> "Konfliktzoner ifbm. valgplakater" </font> ,
   
   "aboutBox": "Furesø Kommunes webkort på nettet"
 }
