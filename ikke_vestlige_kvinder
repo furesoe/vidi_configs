@@ -1,0 +1,82 @@
+
+{
+    "activateMainTab": "Ikke-vestlige kvinder", 
+    
+     "schemata": [
+    "public",
+    "tag:cowi_gadefotos",
+    "tag:skolevej",
+    "tag:adresser",
+    "tag:ikke_vestlige_kvinder",
+    "tag:baggrund"
+    
+  ],
+  
+  "baseLayers": [
+       {
+            "id": "geodk.bright",
+            "name": "GeoDanmark kort, lavkon",
+            "db": "baselayers",
+            "host": "https://gc2.io",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 19,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },{
+            "id": "geodk.terminal",
+            "name": "GeoDanmark kort, terminal",
+            "db": "baselayers",
+            "host": "https://gc2.io",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 19,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },
+        {
+            "id": "luftfotoserier.geodanmark_2017_12_5cm",
+            "name": "Luftfoto 2017",
+            "db": "baselayers",
+            "host": "https://gc2.io",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+     
+        },
+       {
+            "id": "luftfotoserier.geodanmark_2016_12_5cm",
+            "name": "Luftfoto 2016",
+            "db": "baselayers",
+            "host": "https://gc2.io",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },
+        {"id": "osm", "name": "OSM"}
+       
+       
+  ],
+  
+ "enabledExtensions": [
+        "findNearest",
+        "coordinates",
+        "streetView"   
+  ],
+  
+  "searchConfig": {
+        "komkode": "190"
+  },
+  
+  "enabledPrints": ["print"],
+  
+  "template": "default.tmpl",
+  
+  "brandName": "Ikke-vestlige kvinder",
+  
+  "aboutBox": "Furesø Kommunes webkort på nettet"
+}
