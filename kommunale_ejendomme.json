@@ -58,7 +58,7 @@
   
   "enabledPrints": ["print"],
   
-  "template": "default.tmpl",
+  "template": "embed.tmpl",
   
   "brandName": "KE-temakort",
   
