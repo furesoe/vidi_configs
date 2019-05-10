@@ -1,0 +1,76 @@
+{
+     "schemata": [
+    "public",
+    "tag:anlaeg2019",
+    "tag:baggrund"
+    
+  ],
+  
+  "baseLayers": [
+       {
+            "id": "geodk.bright",
+            "name": "GeoDanmark kort, lavkon",
+            "db": "baselayers",
+            "host": "https://gc2.io",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 19,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },{
+            "id": "geodk.terminal",
+            "name": "GeoDanmark kort, terminal",
+            "db": "baselayers",
+            "host": "https://gc2.io",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 19,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },
+         {
+            "id": "luftfotoserier.geodanmark_2018_12_5cm",
+            "name": "Luftfoto 2018",
+            "db": "baselayers",
+            "host": "https://gc2.io",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+     
+        },
+        {
+            "id": "luftfotoserier.geodanmark_2017_12_5cm",
+            "name": "Luftfoto 2017",
+            "db": "baselayers",
+            "host": "https://gc2.io",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+     
+        },
+        {"id": "osm", "name": "OSM"}
+       
+       
+  ],
+  
+ "enabledExtensions": [
+        "conflictSearch",
+        "findNearest",
+        "streetView"   
+  ],
+  
+  "searchConfig": {
+        "komkode": "190"
+  },
+  
+  "enabledPrints": ["printtmpl_furesoe"],
+  
+  "template": "default.tmpl",
+  
+  "brandName": "Vej & Parks anlægsprojekter 2019",
+  
+  "aboutBox": "Furesø Kommunes webkort på nettet"
