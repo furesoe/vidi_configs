@@ -1,0 +1,67 @@
+{
+     "schemata": [
+    "public",
+    "tag:kommunale_ejendomme",
+    "tag:matrikulaere_forhold",
+    "tag:cowi_gadefotos",
+    "tag:baggrund"
+    
+  ],
+     "extensionConfig": {
+        "conflictSearch": {
+            "startBuffer": -2,
+            "getProperty": true,
+            "searchString": "tag:konflikt",
+            "searchLoadedLayers": false
+        }
+    },
+  
+  "baseLayers": [
+       {
+            "id": "geodk.bright",
+            "name": "GeoDanmark kort, lavkon",
+            "db": "baselayers",
+            "host": "https://gc2.io",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 19,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },
+         {
+            "id": "luftfotoserier.geodanmark_2018_12_5cm",
+            "name": "Luftfoto 2018",
+            "db": "baselayers",
+            "host": "https://gc2.io",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+     
+        },
+        {"id": "osm", "name": "OSM"}
+       
+       
+  ],
+  
+ "enabledExtensions": [
+        "conflictSearch",
+        "findNearest",
+        "coordinates",
+        "streetView",
+        "embed"
+  ],
+  
+  "searchConfig": {
+        "komkode": "190"
+  },
+  
+  "enabledPrints": ["print"],
+  
+  "template": "embed.tmpl",
+  
+  "brandName": "KE-temakort",
+  
+  "aboutBox": "Furesø Kommunes webkort på nettet"
+}
