@@ -1,1 +1,53 @@
+{
+     "schemata": [
+    "public",
+    "tag:kf_turisme"
+    
+  ],
 
+  
+  "baseLayers": [
+       {
+            "id": "geodk.bright",
+            "name": "GeoDanmark kort, lavkon",
+            "db": "baselayers",
+            "host": "https://gc2.io",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 19,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },
+        {
+            "id": "luftfotoserier.geodanmark_2018_12_5cm",
+            "name": "Luftfoto 2018",
+            "db": "baselayers",
+            "host": "https://gc2.io",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },
+        {"id": "osm", "name": "OSM"}
+       
+       
+  ],
+  
+ "enabledExtensions": [
+        "findNearest",
+        "streetView"   
+  ],
+  
+  "searchConfig": {
+        "komkode": "190"
+  },
+  
+  "enabledPrints": ["print"],
+  
+  "template": "default.tmpl",
+  
+  "brandName": "Konfliktzoner ifbm. valgplakater",
+  
+  "aboutBox": "Furesø Kommunes webkort på nettet"
+}
