@@ -87,7 +87,8 @@
         "findNearest",
         "coordinates",
         "ejendom",
-        "streetView"   
+        "streetView",
+        "session"
   ],
   
   "searchConfig": {
