@@ -46,7 +46,7 @@
   
   "enabledPrints": ["print"],
   
-  "template": "embed.tmpl",
+  "template": "default.tmpl",
   
   "brandName": "Furesø Kommune",
   
