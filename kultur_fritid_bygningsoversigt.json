@@ -51,7 +51,7 @@
   
   "enabledPrints": ["print"],
   
-  "template": "default.tmpl",
+  "template": "embed.tmpl",
   
   "brandName": "Kultur & Fritid",
   
