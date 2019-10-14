@@ -1,10 +1,6 @@
 {
      "schemata": [
-    "public",
-    "tag:kommunale_ejendomme",
-    "tag:matrikulaere_forhold",
-    "tag:cowi_gadefotos",
-    "tag:baggrund"
+    "public"
     
   ],
      "extensionConfig": {
@@ -50,10 +46,8 @@
   ],
   
  "enabledExtensions": [
-        "conflictSearch",
         "findNearest",
-        "coordinates",
-        "streetView",
+        "coordinates"
         "embed"
   ],
   
@@ -65,7 +59,7 @@
   
   "template": "embed.tmpl",
   
-  "brandName": "KE-temakort",
+  "brandName": "Sektionsområder",
   
   "aboutBox": "Furesø Kommunes webkort på nettet"
 }
