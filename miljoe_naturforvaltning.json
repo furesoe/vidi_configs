@@ -9,9 +9,9 @@
   ],
      "extensionConfig": {
         "conflictSearch": {
-            "startBuffer": -2,
+            "startBuffer": -1,
             "getProperty": true,
-            "searchString": "tag:konflikt",
+            "searchString": "tag:konflikt_brutto",
             "searchLoadedLayers": false
         },
         "streetView": {
