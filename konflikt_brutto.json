@@ -8,7 +8,7 @@
   
   "extensionConfig": {
         "conflictSearch": {
-            "startBuffer": -2,
+            "startBuffer": -0.5,
             "getProperty": true,
             "searchString": "tag:konflikt_brutto",
             "searchLoadedLayers": false
