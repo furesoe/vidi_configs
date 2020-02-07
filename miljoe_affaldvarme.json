@@ -34,7 +34,7 @@
         },
           {
             "id": "luftfotoserier.geodanmark_2019_12_5cm",
-            "name": "Luftfoto 2018",
+            "name": "Luftfoto 2019",
             "db": "baselayers",
             "host": "https://gc2.io",
             "config": {
