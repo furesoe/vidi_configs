@@ -9,7 +9,7 @@
   ],
      "extensionConfig": {
         "conflictSearch": {
-            "startBuffer": -2,
+            "startBuffer": -0.1,
             "getProperty": true,
             "searchString": "tag:konflikt_brutto",
             "searchLoadedLayers": false
@@ -24,16 +24,6 @@
        {
             "id": "geodk.bright",
             "name": "GeoDanmark kort, lavkon",
-            "db": "baselayers",
-            "host": "https://gc2.io",
-            "config": {
-                "maxZoom": 21,
-                "maxNativeZoom": 19,
-                "attribution": "&copy; SDFE & MapCentia ApS"
-            }
-        },{
-            "id": "geodk.terminal",
-            "name": "GeoDanmark kort, terminal",
             "db": "baselayers",
             "host": "https://gc2.io",
             "config": {
