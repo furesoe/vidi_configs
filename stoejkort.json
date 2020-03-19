@@ -37,7 +37,8 @@
   
  "enabledExtensions": [
         "findNearest",
-        "coordinates",   
+        "coordinates",
+        "embed"
   ],
   
   "searchConfig": {
