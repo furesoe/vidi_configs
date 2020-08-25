@@ -22,7 +22,7 @@
     },
   
   "baseLayers": [
-       {
+      {
             "id": "geodk.bright",
             "name": "GeoDanmark kort, lavkon",
             "db": "baselayers",
@@ -32,7 +32,8 @@
                 "maxNativeZoom": 19,
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
-        },{
+        },
+     {
             "id": "luftfotoserier.geodanmark_2019_12_5cm",
             "name": "Luftfoto 2019",
             "db": "baselayers",
@@ -66,9 +67,8 @@
                 "maxNativeZoom": 20,
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
-     
         },
-       {
+    {
             "id": "luftfotoserier.geodanmark_2016_12_5cm",
             "name": "Luftfoto 2016",
             "db": "baselayers",
@@ -78,10 +78,60 @@
                 "maxNativeZoom": 20,
                 "attribution": "&copy; SDFE & MapCentia ApS"
             }
+        },{
+            "id": "ortofotos._1966",
+            "name": "Luftfoto 1966",
+            "db": "furesoe",
+            "host": "http://gc2",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },{
+            "id": "ortofotos._1961",
+            "name": "Luftfoto 1961",
+            "db": "furesoe",
+            "host": "http://gc2",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },{
+            "id": "ortofotos._1954",
+            "name": "Luftfoto 1954",
+            "db": "furesoe",
+            "host": "http://gc2",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },
+   {
+            "id": "historiske_kort.lave_maalebordsblade",
+            "name": "Lave målebordsblade - 1901-1971",
+            "db": "furesoe",
+            "host": "http://gc2",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
+        },
+   {
+            "id": "kortforsyningen.dtk_hoeje_maalebordsblade",
+            "name": "Høje målebordsblade - 1842-1899",
+            "db": "baselayers",
+            "host": "https://gc2.io",
+            "config": {
+                "maxZoom": 21,
+                "maxNativeZoom": 20,
+                "attribution": "&copy; SDFE & MapCentia ApS"
+            }
         },
         {"id": "osm", "name": "OSM"}
-       
-       
   ],
   
  "enabledExtensions": [
