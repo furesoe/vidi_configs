@@ -8,7 +8,7 @@
      "extensionConfig": {
         "streetView": {
             "cowi": "https://cmv.cowi.com/?u=Furesoe_Kommune_WMS&p=28DF6FE9&cmd=state&project=DDG+Furesø+Kommune&maximize=DDS2018+Furesø+Kommune&assLayers=DDS2018+Furesø+Kommune&dssLayers=SDFE2017+Furesø+Kommune&hLayers=SDFE2017+Furesø+Kommune;DDS2018+Furesø+Kommune&ssTrigger=SINGLE_CLICK",
-            "mapillary": "https://mapillary.com/app/?z=17&username[]=aje1&username[]=ksw1&username[]=fwc1&dateFrom=2018-01-01"
+            "mapillary": "https://mapillary.com/app/?z=17&username[]=fur1aje1&username[]=fur1ksw1&dateFrom=2019-11-01"
         }
     },
 
