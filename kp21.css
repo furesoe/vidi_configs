@@ -6,5 +6,5 @@ Forfatter: tha1
  */
 
 #find-me-btn, #base-layers-btn, #burger-btn, .embed-about, #session, #mapcontrols-history-backward, #mapcontrols-history-forward {
-  display:none;
+  display:none !important;
 }
