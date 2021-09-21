@@ -1,0 +1,22 @@
+/*
+Furesø Kommune
+Kommuneplan 2021 
+VIDI stylesheet
+Forfatter: tha1
+ */
+
+div.leaflet-bar-part.leaflet-bar-part-single {
+  display: none;
+}
+
+div.history-control.leaflet-bar.leaflet-control {
+  display: none;
+}
+
+div.dot {
+  color: #02718F
+}
+
+.leaflet-container .leaflet-control-attribution, .leaflet-container .leaflet-control-scale {
+  font-size: 6px;
+}
