@@ -5,6 +5,6 @@ VIDI stylesheet
 Forfatter: tha1
  */
 
-#find-me-btn, #base-layers-btn, #burger-btn, .embed-about, #session, #mapcontrols-history-backward, #mapcontrols-history-forward {
+#find-me-btn, #base-layers-btn, #burger-btn, .embed-about, .embed-session, #mapcontrols-history-backward, #mapcontrols-history-forward {
   display:none !important;
 }
