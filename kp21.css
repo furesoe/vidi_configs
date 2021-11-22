@@ -8,3 +8,8 @@ Forfatter: tha1
 #find-me-btn, #base-layers-btn, #burger-btn, .embed-about, .embed-session, #mapcontrols-history-backward, #mapcontrols-history-forward {
   display:none !important;
 }
+
+/* Skjuler filterknapper */
+.filter-functions, .btn-group.btn-group-justified {
+  display: none !important;
+}
