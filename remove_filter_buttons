@@ -1,0 +1,4 @@
+/* Skjuler filterknapper */
+.filter-functions, .btn-group.btn-group-justified {
+  display: none !important;
+}
