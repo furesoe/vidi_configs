@@ -13,3 +13,10 @@ Forfatter: tha1
 .filter-functions, .btn-group.btn-group-justified {
   display: none !important;
 }
+
+/* Skjuler luk lag-træ-knappen */
+#layer-slide .modal-header button {
+    visibility: hidden;
+}
+
+
