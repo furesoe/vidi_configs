@@ -6,6 +6,6 @@ Forfatter: tha1
  */
 
 /* Skjuler knapper i menu*/
-#find-me-btn, #base-layers-btn, #burger-btn, #.embed-about, #.embed-session, #mapcontrols-history-backward, #mapcontrols-history-forward {
+#find-me-btn, #base-layers-btn, #burger-btn, .embed-about, .embed-session, #mapcontrols-history-backward, #mapcontrols-history-forward {
   display:none !important;
 }
