@@ -1,0 +1,10 @@
+/*
+Furesø Kommune 
+VIDI stylesheet
+Forfatter: jkh5
+ */
+
+/* Skjuler knapper i menu*/
+#find-me-btn, #burger-btn, .embed-about, .embed-session, #mapcontrols-history-backward, #mapcontrols-history-forward {
+  display:none !important;
+}
