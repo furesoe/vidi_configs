@@ -24,7 +24,7 @@
     font-family: Assistant,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif !important;
     color: #323232 !important;
 }
-/* Specificere fontens "boldness" for værdierne i tabellen*/
+/* Specificerer fontens "boldness" for værdierne i tabellen*/
 #vector-side-table td {
     font-weight: 400 !important;
 }
