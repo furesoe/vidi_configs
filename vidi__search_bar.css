@@ -1,0 +1,12 @@
+/*
+Furesø Kommune
+Kommuneplan 2021 
+VIDI stylesheet
+Forfatter: tha1
+ */
+
+/* Justerer bredden på søgefeltet*/
+
+#place-search {
+width: 600px;
+}
