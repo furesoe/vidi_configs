@@ -38,3 +38,7 @@
 #find-me-btn, #base-layers-btn, #burger-btn, .embed-about, .embed-session, #mapcontrols-history-backward, #mapcontrols-history-forward {
   display:none !important;
 }
+
+#place-search {
+    width: 600px !important;
+}
