@@ -31,5 +31,5 @@
 /* Specificerer fontens "boldness" for kolonneoverskrifterne*/
 #vector-side-table th {
     font-weight: 700 !important;
-    width: 50%;
+    width: 33%;
 }
