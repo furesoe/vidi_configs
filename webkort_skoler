@@ -31,7 +31,7 @@
 /* Specificerer fontens "boldness" for kolonneoverskrifterne*/
 #vector-side-table th {
     font-weight: 700 !important;
-    width: 33%;
+    width: 20%;
 }
 
 /* Skjuler knapper i menu*/
