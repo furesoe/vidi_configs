@@ -33,3 +33,8 @@
     font-weight: 700 !important;
     width: 33%;
 }
+
+/* Skjuler knapper i menu*/
+#find-me-btn, #base-layers-btn, #burger-btn, .embed-about, .embed-session, #mapcontrols-history-backward, #mapcontrols-history-forward {
+  display:none !important;
+}
