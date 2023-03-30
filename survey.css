@@ -1,8 +1,4 @@
-.gc2-edit-tools, #offcanvasLayerControlAltBtn {
-  ddisplay: none !important;
-}
-
-#btn-show-legend-in-map {
+.gc2-edit-tools, #offcanvasLayerControlAltBtn, #btn-show-legend-in-map {
   display: none !important;
 }
 
