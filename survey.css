@@ -2,13 +2,6 @@
   display: none !important;
 }
 
-#tail {
-  display: inline !important;
-}
-#tail::before {
-  content: "Klik i kortet og indberet din idé";
-}
-
 #offcanvas-edit-bottom {
   height: 35vh !important;
 }
