@@ -1,4 +1,4 @@
-.gc2-edit-tools, #offcanvasLayerControlAltBtn, #btn-show-legend-in-map, .leaflet-control-locate, .btn.btn-outline-secondary {
+.gc2-edit-tools, nav, .leaflet-control-locate, .btn.btn-outline-secondary {
   display: none !important;
 }
 
