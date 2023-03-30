@@ -1,6 +1,11 @@
 .gc2-edit-tools, #offcanvasLayerControlAltBtn {
+  ddisplay: none !important;
+}
+
+#btn-show-legend-in-map {
   display: none !important;
 }
+
 #offcanvas-edit-bottom {
   height: 35vh !important;
 }
