@@ -1,4 +1,4 @@
-.gc2-edit-tools, #offcanvasLayerControlAltBtn, #btn-show-legend-in-map {
+.gc2-edit-tools, #offcanvasLayerControlAltBtn, #btn-show-legend-in-map, .leaflet-control-locate {
   display: none !important;
 }
 
