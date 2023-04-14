@@ -1,5 +1,5 @@
 
 
-#place-search,#embed-legend-panel {
+#place-search,#embed-legend-panel.panel-heading {
   display:none !important;
 }
