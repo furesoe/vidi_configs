@@ -1,3 +1,12 @@
+/*
+Furesø Kommune 
+VIDI stylesheet
+Forfatter: jkh5
+ */
+
+/* Styrer farverne for clustersymbolerne, når der benyttes clustering ved vektorstyling gennem GC2.
+Her er sybolerne sat til at have samme farve ved alle zoom-niveauer*/
+
 .marker-cluster-small {
   background-color: rgba(0, 37, 85, 0.6) !important;
 }
