@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
 .gc2-edit-tools, nav, .leaflet-control-locate, .btn.btn-outline-secondary {
   display: none !important;
 }
@@ -6,7 +8,6 @@
   height: 35vh !important;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 
 :root {
   --bs-body-font-family: Montserrat, sans-serif;
