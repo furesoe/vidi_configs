@@ -5,3 +5,9 @@
 #offcanvas-edit-bottom {
   height: 35vh !important;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+:root {
+  --bs-body-font-family: Montserrat, sans-serif;
+}
