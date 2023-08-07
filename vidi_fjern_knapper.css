@@ -10,6 +10,11 @@ Forfatter: tha1
   display:none !important;
 }
 
-.history-control, .leaflet-control-locate,.leaflet-control-measurements, .leaflet-control-custom, .history-back-button {
+/* Ny Vidi */
+.history-control, .leaflet-control-locate,.leaflet-control-measurements, .leaflet-control-custom, .history-back-button, .offcanvas-header {
   display:none !important;
+}
+
+.leaflet-top {
+    top: 0 !important;
 }
