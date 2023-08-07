@@ -15,6 +15,10 @@ Forfatter: tha1
   display:none !important;
 }
 
+.navbar-brand, #offcanvasLayerControlBtn, .sign-in-btn, .about-btn {
+  display:none !important;
+}
+
 .leaflet-top {
     top: 0 !important;
 }
