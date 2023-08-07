@@ -9,3 +9,7 @@ Forfatter: tha1
 #find-me-btn, #base-layers-btn, #burger-btn, .embed-about, .embed-session, #mapcontrols-history-backward, #mapcontrols-history-forward {
   display:none !important;
 }
+
+.history-control, .leaflet-control-locate,.leaflet-control-measurements, .leaflet-control-custom, .history-back-button {
+  display:none !important;
+}
