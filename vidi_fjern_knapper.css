@@ -11,7 +11,7 @@ Forfatter: tha1
 }
 
 /* Ny Vidi */
-.history-control, .leaflet-control-locate,.leaflet-control-measurements, .leaflet-control-custom, .history-back-button, .offcanvas-header {
+.history-control, .leaflet-control-locate, .leaflet-control-measurements, .leaflet-control-custom, .history-back-button, .offcanvas-header {
   display:none !important;
 }
 
