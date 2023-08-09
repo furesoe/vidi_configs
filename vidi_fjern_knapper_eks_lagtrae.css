@@ -9,3 +9,12 @@ Forfatter: tha1
 #find-me-btn, #base-layers-btn, .embed-about, .embed-session, #mapcontrols-history-backward, #mapcontrols-history-forward {
   display:none !important;
 }
+
+/* Ny Vidi */
+.history-control, .leaflet-control-locate, .leaflet-control-measurements, .leaflet-control-custom:not(.full-screen-btn) {
+  display:none !important;
+}
+
+.navbar-brand, .sign-in-btn, .about-btn {
+  display:none !important;
+}
