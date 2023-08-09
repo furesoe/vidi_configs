@@ -12,3 +12,8 @@
 :root {
   --bs-body-font-family: Montserrat, sans-serif;
 }
+
+/* Ny Vidi */
+.offcanvas-header {
+  display:none !important;
+}
