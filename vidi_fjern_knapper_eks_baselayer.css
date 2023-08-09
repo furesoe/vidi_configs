@@ -10,7 +10,7 @@ Forfatter: jkh5
 }
 
 /* Ny Vidi */
-.history-control, .leaflet-control-locate, .leaflet-control-measurements, .leaflet-control-custom, .history-control, .offcanvas-header {
+.history-control, .leaflet-control-locate, .leaflet-control-measurements, .leaflet-control-custom:not(.baselayer-toggle), .history-control, .offcanvas-header {
   display:none !important;
 }
 
