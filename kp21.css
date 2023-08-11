@@ -5,19 +5,14 @@ VIDI stylesheet
 Forfatter: tha1
  */
 
-/* Skjuler knapper i menu*/
-#find-me-btn, #base-layers-btn, #burger-btn, .embed-about, .embed-session, #mapcontrols-history-backward, #mapcontrols-history-forward {
+/* Ny Vidi */
+.history-control, .leaflet-control-locate, .leaflet-control-measurements, .leaflet-control-custom:not(.full-screen-btn) {
   display:none !important;
 }
 
-/* Skjuler filterknapper i lag-træ */
-.filter-functions, .btn-group.btn-group-justified {
-  display: none !important;
+.navbar-brand, #offcanvasLayerControlBtn, .sign-in-btn, .about-btn {
+  display:none !important;
 }
 
-/* Skjuler luk lag-træ-knappen */
-#layer-slide .modal-header button {
-    visibility: hidden;
-}
 
 
