@@ -1,16 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
-
-.gc2-edit-tools, nav, .leaflet-control-locate, .btn.btn-outline-secondary {
-  display: none !important;
-}
-
 #offcanvas-edit-bottom {
   height: 35vh !important;
-}
-
-
-:root {
-  --bs-body-font-family: Montserrat, sans-serif;
 }
 
 /* Ny Vidi */
