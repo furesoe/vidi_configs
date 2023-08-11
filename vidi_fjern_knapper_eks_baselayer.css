@@ -4,11 +4,6 @@ VIDI stylesheet
 Forfatter: jkh5
  */
 
-/* Skjuler knapper i menu*/
-#find-me-btn, #burger-btn, .embed-about, .embed-session, #mapcontrols-history-backward, #mapcontrols-history-forward {
-  display:none !important;
-}
-
 /* Ny Vidi */
 .history-control, .leaflet-control-locate, .leaflet-control-measurements, .leaflet-control-custom:not(.baselayer-toggle, .full-screen-btn), .history-control, .offcanvas-header {
   display:none !important;
