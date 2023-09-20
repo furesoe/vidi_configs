@@ -3,6 +3,9 @@
 }
 
 /* Ny Vidi */
-.offcanvas-header {
+.offcanvas-header, .leaflet-control-simpleMapScreenshoter, .place-search, #edit-tool-group, .navbar-tool-btn {
   display:none !important;
+}
+.leaflet-top {
+  top: 0 !important
 }
